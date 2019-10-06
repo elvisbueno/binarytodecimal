@@ -1,0 +1,11 @@
+/Users/ironman/Desktop/BinarySolution/BinarySolution/bin/Debug/netcoreapp3.0/BinarySolution
+/Users/ironman/Desktop/BinarySolution/BinarySolution/bin/Debug/netcoreapp3.0/BinarySolution.deps.json
+/Users/ironman/Desktop/BinarySolution/BinarySolution/bin/Debug/netcoreapp3.0/BinarySolution.runtimeconfig.json
+/Users/ironman/Desktop/BinarySolution/BinarySolution/bin/Debug/netcoreapp3.0/BinarySolution.runtimeconfig.dev.json
+/Users/ironman/Desktop/BinarySolution/BinarySolution/bin/Debug/netcoreapp3.0/BinarySolution.dll
+/Users/ironman/Desktop/BinarySolution/BinarySolution/bin/Debug/netcoreapp3.0/BinarySolution.pdb
+/Users/ironman/Desktop/BinarySolution/BinarySolution/obj/Debug/netcoreapp3.0/BinarySolution.csprojAssemblyReference.cache
+/Users/ironman/Desktop/BinarySolution/BinarySolution/obj/Debug/netcoreapp3.0/BinarySolution.AssemblyInfoInputs.cache
+/Users/ironman/Desktop/BinarySolution/BinarySolution/obj/Debug/netcoreapp3.0/BinarySolution.AssemblyInfo.cs
+/Users/ironman/Desktop/BinarySolution/BinarySolution/obj/Debug/netcoreapp3.0/BinarySolution.dll
+/Users/ironman/Desktop/BinarySolution/BinarySolution/obj/Debug/netcoreapp3.0/BinarySolution.pdb

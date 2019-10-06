@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B300AE47-505D-4598-B158-103B7B689BC2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinarySolution/Binary.cs">
+    <Files>
+      <File FileName="BinarySolution/Program.cs" Line="10" Column="1" />
+      <File FileName="BinarySolution/Binary.cs" Line="159" Column="247" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BinarySolution" expanded="True">
+            <Node name="BinarySolution" expanded="True">
+              <Node name="Binary.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BinarySolution PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
